@@ -1,2 +1,2 @@
-# analises_em_Python
-Repositório com atividades e projetos realizados com objetivo de demonstrar habilidades na linguagem de programação Python.
+# analises_de_dados
+Repositório com atividades e projetos realizados com objetivo de demonstrar habilidades nas linguagens de programação SQL e Python.
